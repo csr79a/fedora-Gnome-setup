@@ -83,7 +83,7 @@ Ayuda:
 
 ### Limitaciones
 
-El encabezado del script indica que no soporta Silverblue/Kinoite y lo describe como Fedora Workstation/KDE. Aunque se mantiene como componente independiente de Plasma y Gaming, no se debe asumir compatibilidad completa con todas las sesiones GNOME sin probarlo en el equipo de destino.
+El encabezado del script lo identifica como destinado a Fedora Workstation y señala que no soporta Silverblue/Kinoite. Revisa sus requisitos y avisos antes de ejecutarlo.
 
 Códigos de salida documentados:
 
