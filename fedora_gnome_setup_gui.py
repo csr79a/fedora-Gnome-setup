@@ -65,7 +65,7 @@ ICONO_DEFECTO = "application-x-executable-symbolic"
 CONFIG = {
     "carpeta_proyectos": "~/.local/share/fedora-gnome-setup/components",
     "acciones": [
-        {"seccion": "Sistema", "titulo": "Configurar Fedora", "descripcion": "Configuración base: RPM Fusion, multimedia, códecs, microcódigo y Flathub.", "script": "base/setup-fedora-base.sh", "local": True},
+        {"seccion": "Sistema", "titulo": "Configurar Fedora", "descripcion": "Configuración base: RPM Fusion, multimedia, códecs, microcódigo y Flathub.", "script": "gnome/setup-fedora-base.sh", "local": True},
         {"seccion": "NVIDIA", "titulo": "Instalar NVIDIA", "descripcion": "Instala y configura el driver NVIDIA mediante el script del proyecto.", "script": "nvidia/setup-nvidia.sh", "local": True},
         {"seccion": "ASUS / ROG", "titulo": "Instalar ASUS / ROG", "descripcion": "Instala y configura asusctl / ROG Control mediante el script del proyecto.", "script": "asus/setup-asusctl.sh", "local": True},
         {"seccion": "Gaming", "titulo": "Instalar gaming", "descripcion": "Instala la configuración y herramientas gaming de Fedora.", "script": "gaming/setup-gaming-fedora.sh", "local": True},
