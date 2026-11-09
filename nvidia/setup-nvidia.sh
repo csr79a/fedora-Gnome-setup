@@ -3,7 +3,7 @@
 # setup-nvidia.sh
 #
 # Configuración y verificación del soporte NVIDIA para Fedora Workstation.
-# Componente independiente de Plasma y Gaming.
+# Componente independiente del entorno de escritorio y de Gaming.
 #
 # Incluye:
 #   - detección de GPU NVIDIA
