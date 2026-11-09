@@ -83,7 +83,7 @@ Ayuda:
 
 ### Limitaciones
 
-El encabezado del script lo identifica como destinado a Fedora Workstation y señala que no soporta Silverblue/Kinoite. Revisa sus requisitos y avisos antes de ejecutarlo.
+El script está destinado a Fedora Workstation convencional y no soporta Silverblue/Kinoite. No contiene dependencias específicas de KDE ni GNOME; utiliza herramientas estándar de Fedora para instalar y verificar el controlador y PRIME Render Offload.
 
 Códigos de salida documentados:
 
