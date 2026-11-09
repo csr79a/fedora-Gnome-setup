@@ -83,7 +83,7 @@ python3 fedora_gnome_setup_gui.py
 
 La aplicación debe ejecutarse como usuario normal. Los scripts se ejecutan en una terminal VTE integrada, por lo que pueden mostrar progreso, solicitar respuestas y pedir la contraseña de sudo.
 
-**Nota sobre la configuración actual:** el archivo GUI configura la acción base con la ruta \`base/setup-fedora-base.sh\`, pero el script del repositorio está en \`gnome/setup-fedora-base.sh\`. Hasta corregir esa ruta en \`fedora_gnome_setup_gui.py\`, la acción «Configurar Fedora» de la GUI no encontrará el script base. Los demás componentes locales usan las rutas que coinciden con el árbol actual.
+**Rutas de la GUI:** las acciones locales apuntan a los scripts existentes en `gnome/`, `nvidia/`, `asus/` y `gaming/`. La acción de configuración base ya utiliza `gnome/setup-fedora-base.sh`.
 
 ## Orden de ejecución recomendado
 
