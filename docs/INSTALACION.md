@@ -126,7 +126,7 @@ python3 fedora_gnome_setup_gui.py
 
 La aplicación ejecuta los scripts en una terminal VTE integrada. No la inicies como root: cada script administra sus propios permisos.
 
-**Limitación conocida:** en la configuración incluida actualmente, la acción de sistema base apunta a \`base/setup-fedora-base.sh\`, mientras que el archivo real se encuentra en \`gnome/setup-fedora-base.sh\`. Para que esa acción funcione, hay que corregir la ruta en el diccionario \`CONFIG\` del archivo Python.
+**Rutas de la GUI:** las acciones locales están configuradas para utilizar los scripts existentes en `gnome/`, `nvidia/`, `asus/` y `gaming/`.
 
 ## 8. Después de ejecutar
 
