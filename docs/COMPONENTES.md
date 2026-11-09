@@ -208,7 +208,7 @@ python3 fedora_gnome_setup_gui.py
 
 La configuración actual apunta a estas rutas:
 
-- \`base/setup-fedora-base.sh\`
+- \`gnome/setup-fedora-base.sh\`
 - \`nvidia/setup-nvidia.sh\`
 - \`asus/setup-asusctl.sh\`
 - \`gaming/setup-gaming-fedora.sh\`
