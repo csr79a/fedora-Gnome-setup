@@ -107,7 +107,7 @@ No es obligatorio ejecutar todos los componentes. Elige únicamente los que corr
 - El script ASUS utiliza el repositorio Terra de Fyra Labs.
 - El script ProtonPlus utiliza el COPR \`wehagy/protonplus\`.
 - Heroic se descarga desde la publicación más reciente de su repositorio oficial de GitHub.
-- El script NVIDIA está actualmente descrito en su encabezado como orientado a Fedora Workstation/KDE. Aunque se encuentra en este repositorio GNOME, conviene revisar su compatibilidad con tu sesión y configuración antes de ejecutarlo.
+- El script NVIDIA está orientado a Fedora Workstation. Revisa los requisitos y avisos del propio script antes de ejecutarlo.
 - La documentación describe el contenido actual del repositorio; no implica que cada script haya sido probado en todas las versiones de Fedora o configuraciones de hardware.
 
 ## Licencia
