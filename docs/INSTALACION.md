@@ -76,7 +76,7 @@ El flujo descrito por el propio script es:
 
 El script comprueba Secure Boot, instala los componentes del controlador y verifica el renderizado OpenGL y PRIME Render Offload. Si Secure Boot está activo, puede ser necesario resolver la firma del módulo antes de que el controlador cargue.
 
-El encabezado del script indica que está destinado a Fedora Workstation y que no soporta variantes Atomic (Silverblue/Kinoite).
+El script está destinado a Fedora Workstation convencional y no soporta variantes Atomic (Silverblue/Kinoite). No requiere KDE ni GNOME en particular: sus herramientas de diagnóstico y PRIME Render Offload son independientes del entorno de escritorio.
 
 ## 5. Configurar ASUS / ROG
 
