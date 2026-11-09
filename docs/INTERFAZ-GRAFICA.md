@@ -75,7 +75,7 @@ La ruta del script se interpreta respecto al directorio raíz del archivo Python
 La acción «Configurar Fedora» declara:
 
 \`\`\`python
-"script": "base/setup-fedora-base.sh"
+"script": "gnome/setup-fedora-base.sh"
 \`\`\`
 
 Pero el archivo del repositorio está ubicado en:
@@ -84,7 +84,7 @@ Pero el archivo del repositorio está ubicado en:
 gnome/setup-fedora-base.sh
 \`\`\`
 
-Para corregirlo, cambia únicamente esa ruta en \`CONFIG\`:
+La ruta correcta en `CONFIG` es:
 
 \`\`\`python
 "script": "gnome/setup-fedora-base.sh"
