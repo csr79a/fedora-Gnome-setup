@@ -213,7 +213,7 @@ La configuración actual apunta a estas rutas:
 - \`asus/setup-asusctl.sh\`
 - \`gaming/setup-gaming-fedora.sh\`
 
-En el repositorio, el script base está realmente en \`gnome/setup-fedora-base.sh\`. Es necesario cambiar la ruta de la acción base en \`CONFIG\` a \`gnome/setup-fedora-base.sh\` para que la GUI encuentre el archivo.
+Las rutas de la configuración coinciden con la estructura actual del repositorio.
 
 ## 6. Qué componente debo ejecutar
 
